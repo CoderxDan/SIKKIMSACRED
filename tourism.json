@@ -1,0 +1,114 @@
+{
+  "tourism": {
+    "pilgrimage": [
+      {
+        "name": "Kirateshwar Mahadev Temple",
+        "location": "Legship, on the banks of the River Rangeet (West Sikkim)",
+        "founded": "1729 CE by Raja Bharamalla",
+        "description": "Dedicated to Lord Shiva, located along the Rangit River, famous during Bala Chaturdashi festival.",
+        "festivals": ["Bala Chaturdashi", "Maha Shivaratri"],
+        "icon": "img/Kirateshwar_Temple.png"
+    
+      }
+    ],
+    "village": [
+      {
+        "name": "Yuksom",
+        "location": "Gyalshing district of Sikkim, about 40 km north of Gyalshing (West Sikkim)",
+        "founded": "1642 AD",
+        "description": "First capital of Sikkim and gateway to Goechala trek, rich in cultural landmarks.",
+        "festivals": ["Losar", "Saga Dawa", "Bhanu Jayanti"],
+        "icon": "img/yuksom_monst.png"
+      }
+    ],
+    "adventure": [
+      {
+        "name": "Goecha La",
+        "location": "Gyalshing district of Sikkim, in the eastern Himalayas",
+        "description": "Mountain pass offering views of Kanchenjunga, trekking and mountaineering.",
+        "festivals": ["Losar", "Saga Dawa", "Pang Lhabsol"],
+        "icon": "img/goecha_la.png"
+      }
+    ],
+    "heritage": [
+      {
+        "name": "Rabdentse Ruins",
+        "location": "South east of Pemayangtse monastery",
+        "founded": "1670 by Chogyal Tensung Namgyal",
+        "description": "Vestiges of second capital of Sikkim, scenic views, cultural legacy.",
+        "festivals": ["Losar", "Saga Dawa", "Pang Lhabsol"],
+        "icon": "img/Rabdentse_ruins.png"
+      }
+    ],
+    "buddhist_circuit": [
+      {
+        "name": "Pemayangtse Monastery",
+        "location": "West Sikkim, Pelling",
+        "founded": "1647 by Lama Lhatsun Chempo",
+        "description": "Historic site with sacred atmosphere and wooden “Zangdok Palri”.",
+        "festivals": ["Cham Festival during Losar"],
+        "icon": "img/pemayangtse_monastery.png"
+      }
+    ],
+    "mice": [
+      {
+        "name": "Solophok Chardham Complex",
+        "location": "Solophok Hill, 5 km from Namchi (South Sikkim)",
+        "founded": "Early 2010s",
+        "description": "Replicas of four sacred Dhams with large Lord Shiva statue, religious and tourist site.",
+        "festivals": ["Maha Shivaratri", "Janmashtami", "Diwali"],
+        "icon": "img/Solophok_Chardham.png"
+      }
+    ]
+  },
+  "monasteries": [
+    {
+      "name": "Rumtek Monastery",
+      "location": "East Sikkim, Gangtok",
+      "founded": "1734 by 9th Karmapa, Wangchuk Dorje",
+      "description": "Main seat of Karma Kagyu lineage, sacred relics and Buddhist art.",
+      "festivals": ["Losar", "Mahakala Dance"],
+      "icon": "img/rumtek_monst.png"
+    },
+    {
+      "name": "Phodong Monastery",
+      "location": "North Sikkim, 28 km from Gangtok",
+      "founded": "Early 18th century by Chogyal Gyurmed Namgyal",
+      "description": "Center of Karma Kagyu sect, scenic murals, local festivals.",
+      "festivals": ["Chaam Dance Festival", "Losar", "Saga Dawa"],
+      "icon": "img/phodong_monastery.png"
+    },
+    {
+      "name": "Tashiding Monastery",
+      "location": "West Sikkim",
+      "founded": "1641 by Ngadak Sempa Chempo Phunshok Rigzing",
+      "description": "Sacred monastery between Rathong and Rangeet rivers, serene atmosphere.",
+      "festivals": ["Bumchu"],
+      "icon": "img/tashiding_monastery.png"
+    },
+    {
+      "name": "Ralang Monastery",
+      "location": "South Sikkim, Ravangla",
+      "founded": "1768 AD",
+      "description": "Cultural heritage and active monastic community.",
+      "festivals": ["Pang Lhabsol", "Kagyed Chaam", "Mahakala Dance"],
+      "icon": "img/Ralang_monastery.png"
+    },
+    {
+      "name": "Enchey Monastery",
+      "location": "East Sikkim, Gangtok",
+      "founded": "1909 by Lama Druptab Karpo",
+      "description": "Tranquil Buddhist site with vibrant murals and architecture.",
+      "festivals": ["Detor Cham", "Singhe Chaam", "Pang Lhabsol"],
+      "icon": "img/Enchey_Monastery.png"
+    },
+    {
+      "name": "Dubdi Monastery",
+      "location": "West Sikkim, Yuksom",
+      "founded": "1701 by Lama Lhatsun Namkha Jigme",
+      "description": "Grandmother of Sikkimese monasteries, historical and spiritual site.",
+      "festivals": ["Losar", "Pang Lhabsol", "Maghe Sankranti"],
+      "icon": "img/Dubdi_Monastery.png"
+    }
+  ]
+}
